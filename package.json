@@ -1,0 +1,31 @@
+{
+  "name": "@snstruthers/str-template",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "Basic string templating library",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SNSTRUTHERS/str-template.git"
+  },
+  "keywords": [
+	"commonjs",
+    "es2015",
+    "es2015-tag",
+    "es6",
+    "es6-tag",
+    "string",
+    "strings",
+    "tagged",
+    "template",
+    "types",
+    "typescript"
+  ],
+  "author": "Simon Struthers",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/SNSTRUTHERS/str-template/issues"
+  },
+  "homepage": "https://github.com/SNSTRUTHERS/str-template#readme"
+}
